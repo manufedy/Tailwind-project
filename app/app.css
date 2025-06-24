@@ -33,9 +33,26 @@
 --color-user-green-50:hsl(166 60% 39%);
 
 --color-userCompliments-yellow-40:hsl(58 100% 50%);
+--color-userCompliments-green-30:hsl(130 100% 61%);
+--color-userCompliments-gold-40:hsl(47 100% 55%);
 
+--shadow-elevation-4: 0px 4px 0px 0px hsla(0 0% 0% / 1);
+--shadow-elevation-6: 0px 6px 0px 0px hsla(0 0% 0% / 1);
+--shadow-elevation-8: 0px 8px 0px 0px hsla(0 0% 0% / 1);
 
+ --font-family-base: ui-sans-serif, system-ui, sans-serif;
+ --font-family-title: var(--font-family-base);
 
+ --text-body-base: 400 1rem / 1.5 var(--font-family-base);
+ --text-body-medium: 400 1.125rem / 1.5 var(--font-family-base);
+ --text-body-large: 400 1.266rem / 1.5 var(--font-family-base);
 
+ --text-title-base: 700 1.424rem / 1.25 var(--font-family-title);
+ --text-title-medium: 700 1.602rem / 1.25 var(--font-family-title);
+ --text-title-large: 700 1.802rem / 1.25 var(--font-family-title);
+ --text-title-xlarge: 700 2.027rem / 1.2 var(--font-family-title);
 
+ --icon-size-base: 1rem;
+ --icon-size-medium: 1.5rem;
+ --icon-size-large: 2rem;
 }

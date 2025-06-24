@@ -1,3 +1,3 @@
 export default function () {
-  return <h1 className="bg-primary-70">Hola</h1>;
+  return <h1 className="shadow-elevation-4">Hola</h1>;
 }
