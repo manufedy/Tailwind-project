@@ -1,3 +1,5 @@
+import ButtonShowcase from "app/ButtonShowcase";
+
 export default function () {
-  return <h1 className="shadow-elevation-4">Hola</h1>;
+  return <ButtonShowcase />;
 }
